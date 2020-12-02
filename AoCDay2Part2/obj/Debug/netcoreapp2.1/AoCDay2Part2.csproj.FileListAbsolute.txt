@@ -1,0 +1,11 @@
+E:\Programs\AdventOfCode\AoCDay2Part2\bin\Debug\netcoreapp2.1\AoCDay2Part2.deps.json
+E:\Programs\AdventOfCode\AoCDay2Part2\bin\Debug\netcoreapp2.1\AoCDay2Part2.runtimeconfig.json
+E:\Programs\AdventOfCode\AoCDay2Part2\bin\Debug\netcoreapp2.1\AoCDay2Part2.runtimeconfig.dev.json
+E:\Programs\AdventOfCode\AoCDay2Part2\bin\Debug\netcoreapp2.1\AoCDay2Part2.dll
+E:\Programs\AdventOfCode\AoCDay2Part2\bin\Debug\netcoreapp2.1\AoCDay2Part2.pdb
+E:\Programs\AdventOfCode\AoCDay2Part2\obj\Debug\netcoreapp2.1\AoCDay2Part2.csprojAssemblyReference.cache
+E:\Programs\AdventOfCode\AoCDay2Part2\obj\Debug\netcoreapp2.1\AoCDay2Part2.csproj.CoreCompileInputs.cache
+E:\Programs\AdventOfCode\AoCDay2Part2\obj\Debug\netcoreapp2.1\AoCDay2Part2.AssemblyInfoInputs.cache
+E:\Programs\AdventOfCode\AoCDay2Part2\obj\Debug\netcoreapp2.1\AoCDay2Part2.AssemblyInfo.cs
+E:\Programs\AdventOfCode\AoCDay2Part2\obj\Debug\netcoreapp2.1\AoCDay2Part2.dll
+E:\Programs\AdventOfCode\AoCDay2Part2\obj\Debug\netcoreapp2.1\AoCDay2Part2.pdb

@@ -1,0 +1,11 @@
+E:\Programs\SortAndFindSum\SortAndFindSum\bin\Debug\netcoreapp2.1\SortAndFindSum.deps.json
+E:\Programs\SortAndFindSum\SortAndFindSum\bin\Debug\netcoreapp2.1\SortAndFindSum.runtimeconfig.json
+E:\Programs\SortAndFindSum\SortAndFindSum\bin\Debug\netcoreapp2.1\SortAndFindSum.runtimeconfig.dev.json
+E:\Programs\SortAndFindSum\SortAndFindSum\bin\Debug\netcoreapp2.1\SortAndFindSum.dll
+E:\Programs\SortAndFindSum\SortAndFindSum\bin\Debug\netcoreapp2.1\SortAndFindSum.pdb
+E:\Programs\SortAndFindSum\SortAndFindSum\obj\Debug\netcoreapp2.1\SortAndFindSum.csprojAssemblyReference.cache
+E:\Programs\SortAndFindSum\SortAndFindSum\obj\Debug\netcoreapp2.1\SortAndFindSum.csproj.CoreCompileInputs.cache
+E:\Programs\SortAndFindSum\SortAndFindSum\obj\Debug\netcoreapp2.1\SortAndFindSum.AssemblyInfoInputs.cache
+E:\Programs\SortAndFindSum\SortAndFindSum\obj\Debug\netcoreapp2.1\SortAndFindSum.AssemblyInfo.cs
+E:\Programs\SortAndFindSum\SortAndFindSum\obj\Debug\netcoreapp2.1\SortAndFindSum.dll
+E:\Programs\SortAndFindSum\SortAndFindSum\obj\Debug\netcoreapp2.1\SortAndFindSum.pdb

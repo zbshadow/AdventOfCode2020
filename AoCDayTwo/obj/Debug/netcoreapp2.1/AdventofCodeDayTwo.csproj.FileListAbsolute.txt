@@ -1,0 +1,11 @@
+E:\Programs\SortAndFindSum\AdventofCodeDayTwo\bin\Debug\netcoreapp2.1\AdventofCodeDayTwo.deps.json
+E:\Programs\SortAndFindSum\AdventofCodeDayTwo\bin\Debug\netcoreapp2.1\AdventofCodeDayTwo.runtimeconfig.json
+E:\Programs\SortAndFindSum\AdventofCodeDayTwo\bin\Debug\netcoreapp2.1\AdventofCodeDayTwo.runtimeconfig.dev.json
+E:\Programs\SortAndFindSum\AdventofCodeDayTwo\bin\Debug\netcoreapp2.1\AdventofCodeDayTwo.dll
+E:\Programs\SortAndFindSum\AdventofCodeDayTwo\bin\Debug\netcoreapp2.1\AdventofCodeDayTwo.pdb
+E:\Programs\SortAndFindSum\AdventofCodeDayTwo\obj\Debug\netcoreapp2.1\AdventofCodeDayTwo.csprojAssemblyReference.cache
+E:\Programs\SortAndFindSum\AdventofCodeDayTwo\obj\Debug\netcoreapp2.1\AdventofCodeDayTwo.csproj.CoreCompileInputs.cache
+E:\Programs\SortAndFindSum\AdventofCodeDayTwo\obj\Debug\netcoreapp2.1\AdventofCodeDayTwo.AssemblyInfoInputs.cache
+E:\Programs\SortAndFindSum\AdventofCodeDayTwo\obj\Debug\netcoreapp2.1\AdventofCodeDayTwo.AssemblyInfo.cs
+E:\Programs\SortAndFindSum\AdventofCodeDayTwo\obj\Debug\netcoreapp2.1\AdventofCodeDayTwo.dll
+E:\Programs\SortAndFindSum\AdventofCodeDayTwo\obj\Debug\netcoreapp2.1\AdventofCodeDayTwo.pdb
